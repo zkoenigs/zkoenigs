@@ -1,0 +1,42 @@
+*{
+	font-family: Arial, Verdana, serif;
+	color: #000080;
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: #d3d3d3 ;
+	padding: 20px;
+	margin: 10px;
+
+}
+
+li{
+	display:inline;
+	padding: 30px;
+}
+
+
+main{
+	background-color: #d3d3d3 ;
+	padding: 20px;
+	margin: 10px;}
+
+article{
+	background-color: #d3d3d3 ;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+footer{
+	background-color: #d3d3d3 ;
+	padding: 20px;
+	margin: 10px;
+}
